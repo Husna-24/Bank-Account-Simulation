@@ -26,7 +26,7 @@ Execution: Terminal
 
 Project Structure :
 
-BankSimulation/
+BankAccountSimulation
 │
 ├── BankAccountSimulation.java   
 ├── Account.java          
